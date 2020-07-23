@@ -10,3 +10,14 @@
 .mv-title{
     font-family: 'Open Sans', sans-serif;
 }
+form{
+   
+    
+}
+.container{
+    margin-bottom: 15px;
+    width: 100%;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+}
